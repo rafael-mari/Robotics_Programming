@@ -41,4 +41,4 @@ With this command you are able to see the amount of words and lines that the tex
 **history**
 This command shows all the commands that you have used, every step that you have made if you want to recall any command you previously entered.
 ### Conclusion
-I would say that those are the main commands to start working on git bash, we can do a lot of things to get started with them and it is very important to know the functions of all of them. I hope to learn much more throughout this quarter because I like everything that I am learning so far.
+I would say that those are the main commands to start working on git bash, we can do a lot of things to get started with them and it is very important to know the functions of all of them. I hope to learn much more throughout this quarter because I really like everything that I am learning so far.

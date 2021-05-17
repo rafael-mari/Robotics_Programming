@@ -38,4 +38,4 @@ Fetch branches or tags from one or more other repositories, along with the objec
 **git diff**
 This command is used to compare the changes or as it names says, the differences between two files.
 ### Conclusion
-I think this were the main commands to get started with git, there are way more commands but this are some very important that you most know to work in git and GitHub.
+I think that this were the main commands in order to get started with git, there are way more commands but this are some very important that you most know to work in git and GitHub.
