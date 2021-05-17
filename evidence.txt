@@ -1,0 +1,8 @@
+  313  nano bash_shell.md
+  314  nano Git_Github.md
+  315  git status
+  316  git add *
+  317  git status
+  318  git commit -m "This is a good commit"
+  319  git remote add origin https://github.com/rafael-mari/Robotics_Programming.git
+  320  git push -u origin main
